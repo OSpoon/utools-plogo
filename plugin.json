@@ -1,0 +1,11 @@
+{
+  "main": "index.html",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "plogo",
+      "explain": "plogo",
+      "cmds": ["plogo"]
+    }
+  ]
+}
